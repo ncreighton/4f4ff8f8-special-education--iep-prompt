@@ -1,2 +1,25 @@
-# 4f4ff8f8-special-education--iep-prompt
-200+ tested prompts for ChatGPT, Claude, and Gemini optimized for Special Education &amp; IEP tasks. Save hours researching the right prompts.
+# Special Education & IEP Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu00jeTt9Mwg88eM4d0p00)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu00jeTt9Mwg88eM4d0p00)
+
